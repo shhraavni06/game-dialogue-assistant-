@@ -1,0 +1,3 @@
+# The application itself uses only Python's standard library.
+# Install pytest only if you want to run the test suite locally:
+pytest

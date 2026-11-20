@@ -1,0 +1,42 @@
+[
+  {
+    "starting_phrase": "Starting phrase: the village",
+    "dialogue": "Starting phrase: the village great can please at market heart are look and is at be if teach brave do our wearing near holds without anyone to fresh busy",
+    "created_at": "2026-11-19T22:56:43"
+  },
+  {
+    "starting_phrase": "Get-Content .\\dialogue_history.json",
+    "dialogue": "Get-content .\\dialogue_history.json great can please at market heart are look and is at be if teach brave do our wearing near holds without anyone to fresh busy",
+    "created_at": "2026-11-19T22:57:15"
+  },
+  {
+    "starting_phrase": "the village",
+    "dialogue": "The village from the castle",
+    "created_at": "2026-11-20T14:44:46"
+  },
+  {
+    "starting_phrase": "the dragon",
+    "dialogue": "The dragon",
+    "created_at": "2026-11-20T14:44:51"
+  },
+  {
+    "starting_phrase": "the king",
+    "dialogue": "The king needs your help",
+    "created_at": "2026-11-20T14:44:56"
+  },
+  {
+    "starting_phrase": "the village",
+    "dialogue": "The village from danger",
+    "created_at": "2026-11-20T14:45:56"
+  },
+  {
+    "starting_phrase": "the dragon",
+    "dialogue": "The dragon first appeared",
+    "created_at": "2026-11-20T14:45:57"
+  },
+  {
+    "starting_phrase": "the king",
+    "dialogue": "The king rewards those who protect the village has been waiting for news from the north",
+    "created_at": "2026-11-20T14:45:57"
+  }
+]
