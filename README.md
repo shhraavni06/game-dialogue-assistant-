@@ -76,3 +76,15 @@ game-dialogue-assistant/
 ## Model note
 
 This is a lightweight statistical language model, not GPT-2 or a neural network. The sample corpus is intentionally small for a simple, dependency-free project demonstration. For stronger and more coherent dialogue, replace the sample lines with a larger, properly licensed game-script corpus.
+
+## AI Assistance and Development
+
+AI assistance (ChatGPT) was used during the development of this project for implementation guidance, code generation, debugging, and documentation.
+
+The project was executed and tested locally by the developer. The developer also verified the CLI functionality, reviewed generated dialogue, ran the test suite, and configured the GitHub repository and CI workflow.
+
+All implementation details and generated outputs should be reviewed and understood by the developer.
+
+The developer also verified the CLI functionality, reviewed generated dialogue, ran the test suite, and configured the GitHub repository and CI workflow.
+
+All implementation details and generated outputs should be reviewed and understood by the developer.
